@@ -79,7 +79,6 @@ Currently, I'm diving into the fundamentals of **DevOps** to bridge the gap betw
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prompitchayal-glitch&amp;theme=default&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=bbbbbb&amp;border_color=333333&amp;icon_color=ffffff&amp;chart_color=ffffff" width="100%" alt="Profile details" />
 -->
 
----
 
 <p align="center">
   <img src="assets/swirl.jpg" height="300" alt="" />
